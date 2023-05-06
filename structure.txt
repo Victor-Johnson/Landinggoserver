@@ -1,0 +1,8 @@
+server has 3 routes 
+---> / 
+----> /hello
+----> /form
+
+route /.  leads to index.html
+route /hello leads to hello func
+route /form leads to form func which leads to form.html
